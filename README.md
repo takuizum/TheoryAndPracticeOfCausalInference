@@ -1,0 +1,2 @@
+# TheoryAndPracticeOfCausalInference
+統計的インが推論の理論と実装，の勉強用ノート。おもにRの分析例をJuliaに焼きなおしているだけ。
